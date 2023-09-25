@@ -1,8 +1,8 @@
 # Conserved animal DNA
 
-Here is some data that was used in the study titled "DNA conserved
-across animals that controls genes for embryonic development": see
-there for explanations.
+Here is some data that was used in the study [DNA conserved in diverse
+animals since the Precambrian controls genes for embryonic
+development][paper]: see there for explanations.
 
 The animal genomes (e.g. homSap: *Homo sapiens*) are detailed in the
 2023 section of <https://github.com/mcfrith/last-genome-alignments>.
@@ -49,4 +49,5 @@ acorn worm.
 [bed]: https://genome.ucsc.edu/FAQ/FAQformat.html#format1
 [chimaera]: https://en.wikipedia.org/wiki/Callorhinchus
 [last-train]: https://gitlab.com/mcfrith/last/-/blob/main/doc/last-train.rst
+[paper]: https://www.biorxiv.org/content/10.1101/2023.06.18.545459v2
 [RepeatMasker]: http://www.repeatmasker.org/
